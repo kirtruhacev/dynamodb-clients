@@ -1,0 +1,6 @@
+rootProject.name = 'dynamodb-clients'
+include 'commons'
+include 'repository'
+include 'test-utils'
+include 'domain'
+include 'rest'
